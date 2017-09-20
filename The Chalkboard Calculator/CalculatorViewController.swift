@@ -240,7 +240,7 @@ let numberFormatting = NumberFormatter()
                 }
                 
                 
-                print("exit perform operation\(isInTheMiddleOfAnOperation)")
+                 
             }
         
     @IBAction func addDigitToCurrentCalculatingLabel(_ sender: UIButton) {
